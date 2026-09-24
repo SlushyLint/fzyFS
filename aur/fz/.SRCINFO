@@ -1,0 +1,11 @@
+pkgbase = fz
+        pkgver = 0.2
+        pkgrel = 1
+        arch = x86_64
+        makedepends = go
+        source = https://github.com/SlushyLint/fzyFS/archive/refs/tags/v0.2.tar.gz
+        sha256sums = 0532e52cec2bf022667cb9775b72a65a900789781bde75b4775d97e8d8500ebe
+
+pkgname = fz
+
+pkgname = fzr
